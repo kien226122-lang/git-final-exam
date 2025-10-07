@@ -1,0 +1,10 @@
+gioi thieu:
+toi ten la Le Trung Kien
+lop DHTINO2
+MSSV 226122
+Hien dang hoc git và quan li ma nguon mo 
+so thich
+lap trin
+doc sach
+ki nang :
+PYTHON GIT htmL/css
